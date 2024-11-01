@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love studying about rockets, cars, planes and reading books**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> :earth_americas: &nbsp;Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allmosthere" height="30" width="40" /></a>
 </p>
@@ -32,12 +32,5 @@
 <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://pytorch.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
-
-
-
-<h3> :earth_americas: &nbsp;Contact me: </h3> 
-
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/israelstnmorais)](www.linkedin.com/in/israelstnmorais)
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:israelsantanamorais@outlook.com)](mailto:israelsantanamorais@outlook.com)
 
 <h4>Feito com base nos modelos disponibilizados <a href="https://github.com/vsblemos/readme-template/blob/main/README-profile/vanessaswerts.md">aqui</a></h4>
