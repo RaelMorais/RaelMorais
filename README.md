@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Machine Learnig, DevOps, Data Science**
 
-- 👨‍💻 All of my projects are available at [#allmost here](#allmost here)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/RaelMorais/">here</a>
 
 - 📫 How to reach me **israelsantanamorais@outlook.com**
 
-- 📄 Know about my experiences [experiences here](experiences here)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I love studying about rockets, cars, planes and reading books**
 
