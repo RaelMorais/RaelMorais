@@ -19,7 +19,6 @@
 🤝Team collaboration & agile experience <br>   
 🙂Good communication skills<br>    
 🆙Passion for learning & self-improvement<br>  
-🦾Strongcommitment<br>  
 
 
 # 💻 Tech Stack:
