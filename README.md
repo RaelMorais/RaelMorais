@@ -9,16 +9,16 @@
 # 💫 About Me:
 🚀 **Currently working at Bosch Brasil** as a apprentice.<br>  
 🧠 I love turning complex problems into elegant backend solutions.<br>  
-🔍 **Main focus**: RESTful APIs, scalable systems, and clean code practices.<br>  
-📚 Always learning — especially topics around **microservices, clean architecture, DevOps, and cloud platforms**.<br>  
+🔍 **Main focus**: RESTful APIs, scalable systems, and backend.<br>  
+📚 Always learning — especially topics around **microservices, software architecture, DevOps, cloud platforms and AI engineer**.<br>  
 ⚡ **Fun fact**: I love studying about rockets, cars, planes, and I’m an avid reader.<br>  
 👨‍💻 Explore my projects: [GitHub Profile](https://github.com/RaelMorais)<br>
 
 # 💼 Soft Skills:
-🦾Problem-solving mindset <br>   
-🤝Team collaboration & agile experience <br>   
-🙂Good communication skills<br>    
-🆙Passion for learning & self-improvement<br>  
+🦾 Problem-solving mindset <br>   
+🤝 Team collaboration & agile experience <br>   
+🙂 Good communication skills<br>    
+🆙 Passion for learning & self-improvement<br>  
 
 
 # 💻 Tech Stack:
