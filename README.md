@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=My+name+is+Israel+;I'm+a+Backend+Dev.)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=45&pause=1000&color=9F9D95&background=FFFFFF00&width=500&height=70&lines=Hi%2C+I'm+Israel;An+Backend+Dev.;An+F1+Fan.;And+Rockstar+%F0%9F%92%A5)](https://git.io/typing-svg)  
+
 </div>
 
 
