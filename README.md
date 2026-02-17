@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🚀 **Currently working at Bosch Brasil** as a apprentice.<br>  
+🚀 **Currently working at Bosch Brasil** 
 🧠 I love turning complex problems into elegant backend solutions.<br>  
 🔍 **Main focus**: RESTful APIs, scalable systems, and backend.<br>  
 📚 Always learning — especially topics around **microservices, software architecture, DevOps, cloud platforms and AI engineer**.<br>  
